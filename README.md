@@ -1,6 +1,6 @@
-# 🌤️ SkyCast - Your Simple Weather Companion
+# 🌤️ Weather Companion
 
-SkyCast is a minimal weather app built using React and the OpenWeatherMap API. It helps users check the current weather based on their location or any city they search for.
+it's a minimal weather app built using React and the OpenWeatherMap API. It helps users check the current weather based on their location or any city they search for.
 
 ## 🚀 Features
 
